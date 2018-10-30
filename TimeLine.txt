@@ -1,0 +1,23 @@
+00:29 Input / Output 
+09:10 Binding / Mutable
+11:10 Functions
+22:09 Math
+25:21 Strings
+33:54 Looping
+34:07 While
+35:47 For
+36:53 Iterating 
+38:35 Conditionals
+38:50 IF ELIF ELSE
+42:32 Match
+44:38 Lists
+55:27 Enums
+57:15 Options
+59:40 Tuples
+1:01:49 Records
+1:03:31 Sequences
+1:08:30 Maps
+1:12:52 Generics
+1:14:03 Exception Handling
+1:16:45 Structs
+1:19:10 Classes
